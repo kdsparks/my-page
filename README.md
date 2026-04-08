@@ -1,2 +1,1 @@
-# my-page
-Here you can find some info about me!
+My favorite programming language is HTML!

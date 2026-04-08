@@ -1,8 +1,8 @@
 # About Me
 `Hello World!` I'm Cadie Sparks, a third year **Computer Science** student at the *University of California, San Diego*. I'm interested in:
-[x] Web Development
-[x] Programming languages and tools
-[x] Technology for conservation science
+- [x] Web Development
+- [x] Programming languages and tools
+- [x] Technology for conservation science
 
 Check out [some of my previous and ongoing projects](#my-projects)!
 

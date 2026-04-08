@@ -22,6 +22,7 @@ Outside of computer science, some of my interests include:
 + Amateur radio
 
 [Here's a photo of my ballroom team!](team-photo.jpg)
+![Here's the same photo](team-photo.jpg)
 
 If near San Digo, you might occasionally hear me on the 20 meter or 70 cm amateur bands! Listen for:
 > This is KO6LNE, Kilo Oscar Six, Lima November Echo.
